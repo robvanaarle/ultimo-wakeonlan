@@ -1,0 +1,21 @@
+{
+    "name": "robvanaarle/ultimo-wakeonlan",
+    "description": "Wakeonlan broadcaster in PHP",
+    "type": "library",
+    "keywords": [
+        "wakeonlan",
+        "wol"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+	  		{
+	    	  "name": "Rob van Aarle"
+	  		}
+	  ],
+    "autoload": {
+    		"psr-4": {
+       			"ultimo\\": "src/ultimo/"
+    		}
+  }
+}
+
